@@ -26,3 +26,5 @@ text = 'Hello Zaira'
 custom_key = 'python'
     
 encryption = vigenere(text, custom_key)
+
+print(encryption)
