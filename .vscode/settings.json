@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./scientific_Computing_with_python"
+    ]
+}
